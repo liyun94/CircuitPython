@@ -8,4 +8,9 @@ Two modules: Seeed Studio XIAO nRF52840 is equipped with a powerful Nordic nRF52
 
 
 adv.py
+
 Using service data to send data, any device can scan it.
+
+scan.py
+
+Scan the advertisement and filter by device name.
