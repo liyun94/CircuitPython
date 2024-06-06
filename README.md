@@ -1,4 +1,4 @@
-# CircuitPython
+# CircuitPython BLE
 this session will introduce some sample cases by CircuitPython, such as the BLE function.
 
 BLE advertising function:
